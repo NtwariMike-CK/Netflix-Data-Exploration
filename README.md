@@ -5,10 +5,21 @@
 Welcome to the **Netflix Data Visualization Project**! This repository explores and visualizes the Netflix dataset using two complementary approaches:
 
 1. **📊 Streamlit App** – An interactive web application for data exploration and filtering, built with Python and Plotly.
+```bash
+https://netflix-data-exploration.streamlit.app/
+```
+[![Netflix Data App](images/streamlit.png)](https://netflix-data-exploration.streamlit.app/)
+
+
+
 2. **📈 Tableau Dashboard** – A rich, interactive dashboard created using Tableau for visual storytelling and insights.
-  ```https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix ```
+  ```bash
+https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix
+```
+[![Netflix Data App](images/tableau.png)](https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix)
 
 ---
+
 
 ## 📁 Repository Structure
 
@@ -18,12 +29,17 @@ Welcome to the **Netflix Data Visualization Project**! This repository explores 
 │   ├── app.py
 │   ├── requirements.txt
 │   ├── README.md
+│   ├── netflix_movies.csv
 │   └── ...
 │
 ├── tableau-viz/         # Tableau visualizations and project files
 │   ├── netflix_dashboard.twbx
 │   ├── README.md
 │   └── ...
+│
+├── images/
+│   ├── tableau.png
+│   ├── streamlit.png
 │
 └── README.md            # You're here!
 
