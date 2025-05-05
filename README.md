@@ -48,6 +48,16 @@ or click image below to view
 └── README.md            # You're here!
 
 ```
+## 📬 Contact
+
+For feedback or inquiries:
+
+- **Name**: Ntwari Mike Chris Kevin
+- **Email**: [ntwarikevin95@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/ntwarimikeck]
+
+---
+
 ## 📜 License
 This project is open source and available under the MIT License.
 
