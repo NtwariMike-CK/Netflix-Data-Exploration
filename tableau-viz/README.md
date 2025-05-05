@@ -3,7 +3,14 @@
 An interactive Tableau dashboard providing insights into Netflix's content library, including distribution by type, genre, country, and release year.
 
 🔗 **Live Dashboard**: [View on Tableau Public]
-(https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix)
+
+```bash
+https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix)
+```
+or click image below to view
+
+[![Netflix Data App](../images/tableau.png)](https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix)
+
 
 ---
 
