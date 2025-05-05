@@ -7,7 +7,9 @@ An interactive web application built with **Streamlit** for exploring the Netfli
 https://netflix-data-exploration.streamlit.app/
 ```
 or click image below to view
+
 [![Netflix Data App](images/streamlit.png)](https://netflix-data-exploration.streamlit.app/)
+
 ---
 
 ## 🔍 Features
