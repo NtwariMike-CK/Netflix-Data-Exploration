@@ -8,7 +8,7 @@ https://netflix-data-exploration.streamlit.app/
 ```
 or click image below to view
 
-[![Netflix Data App](images/streamlit.png)](https://netflix-data-exploration.streamlit.app/)
+[![Netflix Data App](./images/streamlit.png)](https://netflix-data-exploration.streamlit.app/)
 
 ---
 
