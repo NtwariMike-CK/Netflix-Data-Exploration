@@ -37,5 +37,5 @@ Make sure to place `netflix_titles.csv` in the root folder.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/netflix-data-explorer.git
+git clone https://github.com/NtwariMike-CK/Netflix-Data-Exploration/tree/main/app
 cd netflix-data-explorer
