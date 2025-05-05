@@ -2,18 +2,18 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
+st.set_page_config(
+    page_title="🎬 Netflix Data Exploration",  # Change the title here
+    page_icon="🖥️",  # Change the favicon here (you can use emoji or an image path)
+    layout="wide",  # Optional: You can choose 'centered' or 'wide' layout
+)
+
 # Load data
 @st.cache_data
 def load_data():
     return pd.read_csv("app/netflix_titles.csv")
 
 df = load_data()
-
-st.set_page_config(
-    page_title="🎬 Netflix Data Exploration",  # Change the title here
-    page_icon="🖥️",  # Change the favicon here (you can use emoji or an image path)
-    layout="wide",  # Optional: You can choose 'centered' or 'wide' layout
-)
 
 # Title
 st.title("🎬 Netflix Data Exploration App")
