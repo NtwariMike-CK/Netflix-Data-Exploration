@@ -8,6 +8,8 @@ Welcome to the **Netflix Data Visualization Project**! This repository explores 
 ```bash
 https://netflix-data-exploration.streamlit.app/
 ```
+or click image below to view
+
 [![Netflix Data App](images/streamlit.png)](https://netflix-data-exploration.streamlit.app/)
 
 
@@ -16,6 +18,8 @@ https://netflix-data-exploration.streamlit.app/
   ```bash
 https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix
 ```
+or click image below to view
+
 [![Netflix Data App](images/tableau.png)](https://public.tableau.com/app/profile/n.mikeck/viz/NetflixMoviesandTvshowsanalysis/Netflix)
 
 ---
