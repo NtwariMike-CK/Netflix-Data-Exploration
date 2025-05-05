@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(
-    page_title="🎬 Netflix Data Exploration",  # Change the title here
+    page_title="Netflix Data Exploration",  # Change the title here
     page_icon="🖥️",  # Change the favicon here (you can use emoji or an image path)
     layout="wide",  # Optional: You can choose 'centered' or 'wide' layout
 )
