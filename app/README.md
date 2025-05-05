@@ -2,9 +2,7 @@
 
 An interactive web application built with **Streamlit** for exploring the Netflix dataset. Filter, search, and visualize Netflix movies and TV shows based on type, country, release year, and genre.
 
-```bash
-https://netflix-data-exploration.streamlit.app
-```
+[Link](https://netflix-data-exploration.streamlit.app/)
 ---
 
 ## 🔍 Features
